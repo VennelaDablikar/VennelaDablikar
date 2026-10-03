@@ -1,17 +1,22 @@
 
-I'm a Computer Science graduate specializing in AI & ML, currently working as a Software Engineer Intern at Flashbacklabs, where I build responsive, animated web interfaces with Next.js, React, TypeScript, Three.js and GSAP, work with CloudCannon, and contribute to QA. With hands-on experience in machine learning, deep learning and data visualization, I enjoy bridging AI and modern web development. I'm a curious problem solver looking to grow as an engineer and contribute to meaningful projects.
+# Vennela Dablikar
 
-[LinkedIn](https://linkedin.com/in/vennela-dablikar) · [Email](mailto:venneladablikar@gmail.com)
+Frontend developer. Computer Science graduate specializing in AI & ML.
 
-### Stack
+I build responsive, animated web interfaces with Next.js, React, TypeScript, Tailwind CSS, Three.js and GSAP, work with CloudCannon, and contribute to QA by testing features and catching functional and UI issues. Alongside that, I work with machine learning, deep learning, computer vision and NLP, and I enjoy bridging AI and modern web development.
 
-Python, JavaScript, TypeScript · Next.js, React, Tailwind CSS, Three.js, GSAP · NumPy, Pandas, scikit-learn · MySQL · Git, GitHub, Docker, CloudCannon · QA testing
+## What's here
 
-### GitHub stats
+[Epileptic Seizure Detection](https://github.com/VennelaDablikar/epileptic-seizure-detection): deep learning model that analyzes EEG signals with a CNN-LSTM to detect seizure activity.
 
-![](https://github-readme-stats.shion.dev/api?username=VennelaDablikar&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=VennelaDablikar&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+[LawEduAI](https://github.com/VennelaDablikar/LawEduAI): career, education and legal guidance platform with an interactive chatbot and structured modules.
+
+[MediTranslate](https://github.com/VennelaDablikar/MediTranslate_Project): reads medical prescriptions and translates them into the patient's local language, with medicines, dosage and instructions.
+
+## Stack
+
+Python, JavaScript, TypeScript · Next.js, React, Tailwind CSS, Three.js, GSAP · NumPy, Pandas, scikit-learn · MySQL · Git, GitHub, Docker, CloudCannon
 
 ---
-[![](https://komarev.com/ghpvc/?username=VennelaDablikar&icon=0&color=0)](https://visitcount.itsvg.in)
--->
+
+[LinkedIn](https://linkedin.com/in/vennela-dablikar) · [Email](mailto:venneladablikar@gmail.com)
